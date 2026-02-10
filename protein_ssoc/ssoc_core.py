@@ -17,7 +17,7 @@ Tables:
   AA_CHARGE    — Formal charges at pH 7
   AA_HKD       — Kyte-Doolittle hydropathy (modified)
 
-Author: Masamichi Iizumi + Tamaki + Gemini + GPT
+Author: Masamichi Iizumi + Tamaki
 License: MIT
 ================================================================================
 """
