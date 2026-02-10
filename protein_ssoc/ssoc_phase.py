@@ -29,7 +29,7 @@ Extended Solvus:
 
 Performance: 13/13 perfect classification (folded + IDP benchmark)
 
-Author: Masamichi Iizumi + Tamaki + Gemini + GPT
+Author: Masamichi Iizumi + Tamaki
 License: MIT
 ================================================================================
 """
