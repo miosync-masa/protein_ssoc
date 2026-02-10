@@ -1,0 +1,97 @@
+{
+  "_comment": "Protein-SSOC validation dataset. ΔG in kcal/mol (0.0 = IDP/no experimental ΔG).",
+  "_source": "Experimental values from literature (see references in README.md)",
+  "proteins": {
+    "ubiquitin": {
+      "seq": "MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG",
+      "dG": -7.2,
+      "cls": "folded",
+      "pdb": "1UBQ",
+      "ref": "Khorasanizadeh et al. 1996"
+    },
+    "villin": {
+      "seq": "LSDEDFKAVFGMTRSAFANLPLWKQQNLKKEKGLF",
+      "dG": -3.5,
+      "cls": "folded",
+      "pdb": "1VII",
+      "ref": "Kubelka et al. 2003"
+    },
+    "barnase": {
+      "seq": "AQVINTFDGVADYLQTYHKLPDNYITKSEAQALGWVASKGNLADVAPGKSIGGDIFSNREGKLPGKSGRTWREADINYTSGFRNSDRILYSSDWLIYKTTDHYQTFTKIR",
+      "dG": -10.2,
+      "cls": "folded",
+      "pdb": "1BNR",
+      "ref": "Matouschek et al. 1994"
+    },
+    "lysozyme": {
+      "seq": "MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL",
+      "dG": -14.0,
+      "cls": "folded",
+      "pdb": "2LZM",
+      "ref": "Becktel & Schellman 1987"
+    },
+    "ci2": {
+      "seq": "KTEWPELVGKSVEEAKKVILQDKPEAQIIVLPVGTIVTMEYRIDRVRLFVDKLDNIAEVPRVG",
+      "dG": -7.0,
+      "cls": "folded",
+      "pdb": "2CI2",
+      "ref": "Jackson & Fersht 1991"
+    },
+    "rnase_a": {
+      "seq": "KETAAAKFERQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV",
+      "dG": -8.7,
+      "cls": "folded",
+      "pdb": "7RSA",
+      "ref": "Pace et al. 1990"
+    },
+    "myoglobin": {
+      "seq": "VLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRFKHLKTEAEMKASEDLKKHGVTVLTALGAILKKKGHHEAELKPLAQSHATKHKIPIKYLEFISEAIIHVLHSRHPGDFGADAQGAMNKALELFRKDIAAKYKELGYQG",
+      "dG": -13.5,
+      "cls": "folded",
+      "pdb": "1MBN",
+      "ref": "Privalov & Khechinashvili 1974"
+    },
+    "sh3": {
+      "seq": "EETFVALYDYESRTETDLSFKKGERLQIVNNTEGDWWLAHSLSTGQTGYIPSNYVAPSDS",
+      "dG": -3.7,
+      "cls": "folded",
+      "pdb": "1SRL",
+      "ref": "Viguera et al. 1994"
+    },
+    "protein_g": {
+      "seq": "MTYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE",
+      "dG": -5.4,
+      "cls": "folded",
+      "pdb": "1PGB",
+      "ref": "Alexander et al. 1992"
+    },
+    "trp_cage": {
+      "seq": "NLYIQWLKDGGPSSGRPPPS",
+      "dG": -1.5,
+      "cls": "folded",
+      "pdb": "1L2Y",
+      "ref": "Neidigh et al. 2002"
+    },
+    "p53_tad": {
+      "seq": "MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLMLSPDDIEQWFTEDPGP",
+      "dG": 0.0,
+      "cls": "idp",
+      "pdb": null,
+      "ref": "Dawson et al. 2003"
+    },
+    "alpha_syn": {
+      "seq": "MDVFMKGLSKAKEGVVAAAEKTKQGVAEAAGKTKEGVLYVGSKTKEGVVHGVATVAEKTKEQVTNVGGAVVTGVTAVAQKTVEGAGSIAAATGFVKKDQLGKNEEGAPQEGILEDMPVDPDNEAYEMPSEEGYQDYEPEA",
+      "dG": 0.0,
+      "cls": "idp",
+      "pdb": null,
+      "ref": "Weinreb et al. 1996"
+    },
+    "polyQ": {
+      "seq": "GAMGMSDSEEQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQHQHQQ",
+      "dG": 0.0,
+      "cls": "idp",
+      "pdb": null,
+      "ref": "Bhattacharyya et al. 2005"
+    }
+  }
+}
