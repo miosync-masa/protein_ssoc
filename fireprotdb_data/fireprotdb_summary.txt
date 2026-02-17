@@ -1,0 +1,129 @@
+================================================================================
+FireProtDB 2.0 — Data Extraction Summary
+================================================================================
+
+Total DDG entries fetched: 613,208
+
+--- Filter Pipeline ---
+                      input:  613,208
+           after_single_sub:  412,411
+                  after_pdb:    6,709
+                  after_ddg:    6,709
+                   after_ph:    6,081
+            after_ddg_range:    6,079
+                     output:    6,079
+
+--- Filtered Dataset: 4,154 entries ---
+  Unique PDB structures: 170
+  Unique proteins: 154
+
+--- WT Residue Distribution ---
+  A:    289  █
+  C:     42  
+  D:    303  █
+  E:    355  █
+  F:    153  
+  G:    196  
+  H:    111  
+  I:    271  █
+  K:    343  █
+  L:    310  █
+  M:     76  
+  N:    152  
+  P:    108  
+  Q:    107  
+  R:    146  
+  S:    140  
+  T:    385  █
+  V:    373  █
+  W:     74  
+  Y:    220  █
+
+--- MT Residue Distribution ---
+  A:   1191  █████
+  C:     60  
+  D:    131  
+  E:    146  
+  F:    237  █
+  G:    418  ██
+  H:    105  
+  I:    177  
+  K:    142  
+  L:    195  
+  M:    117  
+  N:    131  
+  P:     81  
+  Q:    155  
+  R:    107  
+  S:    183  
+  T:    129  
+  V:    292  █
+  W:     47  
+  Y:    110  
+
+--- DDG Distribution ---
+  N:     4154
+  Mean:  0.950 kcal/mol
+  Std:   1.875
+  Min:   -13.700
+  Max:   12.230
+  Median:0.680
+  Stabilizing (DDG < -1):    281 (7%)
+  Neutral  (-1 ≤ DDG ≤ 1):   2166 (52%)
+  Destabilizing (DDG > 1):   1707 (41%)
+
+--- pH Distribution ---
+  N with pH: 4154
+  Mean pH:   6.76
+  pH 6-8:    3515
+
+--- Method Distribution ---
+                GdnHCl:   2059
+                  Urea:   1097
+               Thermal:    958
+                   SDS:     24
+             GSSG, GSH:     14
+                GdnSCN:      1
+              Pressure:      1
+
+--- Measure Type Distribution ---
+          Fluorescence:   1576
+                    CD:   1355
+          fluorescence:    838
+                   DSC:    200
+            Absorbance:     43
+      CD, Fluorescence:     25
+   Gel electrophoresis:     25
+      Fluorescence, CD:     17
+                  HPLC:     14
+                   NMR:     12
+
+--- Source Dataset ---
+                        ProTherm:   4154
+
+--- Top 20 PDBs by Mutation Count ---
+  1EM7, 1PGA:   817  Immunoglobulin G-binding protein G
+  1STN:   556  Thermonuclease
+  1L63, 2LZM:   217  Endolysin
+  1BNI:   171  Ribonuclease
+  1SHG, 1U4Q, 1AJ3, 1CUN:   142  Spectrin alpha chain, non-erythrocytic 1
+  5DFR:    95  Dihydrofolate reductase
+  2CI2:    79  Subtilisin-chymotrypsin inhibitor-2A
+  1ARQ, 1ARR:    68  Transcriptional repressor arc
+  1RGG:    65  Guanyl-specific ribonuclease Sa
+  4LYZ:    57  Lysozyme C
+  2RN2:    57  Ribonuclease HI
+  1BPI:    56  Pancreatic trypsin inhibitor
+  1YGW, 1RN1, 9RNT:    52  Guanyl-specific ribonuclease T1
+  1FKB, 1FKJ:    52  Peptidyl-prolyl cis-trans isomerase FKBP
+  1CSP:    51  Cold shock protein CspB, 1CSQ
+  1UZC:    47  Pre-mRNA-processing factor 40 homolog A
+  1WQ5:    46  Tryptophan synthase alpha chain
+  1FTG, 1FLV:    43  Flavodoxin, Flavodoxin
+  1TTF, 2CK2, 1FNF, 1TTG:    40  Fibronectin
+  1QLP:    40  Alpha-1-antitrypsin
+
+--- SSOC Compatibility ---
+  Total SSOC-ready entries: 4,154
+  Unique PDB+mutation pairs: 4,154
+  Ready for gate_explorer: YES

@@ -1,0 +1,14 @@
+FireProtDB Preprocessing Report
+Preset: thermal_broad — Thermal denaturation, broad pH, PDB required
+Dedup: median_ph7
+
+  [            single_sub]   613,208 →  412,411  (-200,797,  67.3%)  Single amino acid substitution only
+  [               has_ddg]   412,411 →  412,411  (-     0, 100.0%)  DDG value present
+  [              valid_aa]   412,411 →  412,411  (-     0, 100.0%)  Standard amino acids only
+  [         denature_type]   412,411 →    2,185  (-410,226,   0.5%)  Denaturation: ['Thermal']
+  [              ph_range]     2,185 →    1,604  (-   581,  73.4%)  pH 4.0-10.0
+  [             ddg_range]     1,604 →    1,602  (-     2,  99.9%)  DDG -15.0 to 15.0 kcal/mol
+  [          exclude_mega]     1,602 →    1,602  (-     0, 100.0%)  Exclude mega-scale/DMS datasets
+  [               has_pdb]     1,602 →    1,537  (-    65,  95.9%)  PDB structure available
+
+Final: 1,048 records

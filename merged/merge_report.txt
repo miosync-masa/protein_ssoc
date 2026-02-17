@@ -1,0 +1,50 @@
+================================================================================
+Dataset Merge Report
+================================================================================
+
+--- Input ---
+  thermomut:       8,476 entries  ( 269 PDBs)
+  FireProtDB:      3,086 entries  ( 127 PDBs)
+
+--- Overlap Analysis ---
+  Overlapping (PDB+mutation match):    598
+  FireProtDB only (new):             2,488
+  thermomut only (no FP match):      7,705
+
+--- DDG Consistency (overlap pairs) ---
+  N pairs:    598
+  Mean diff:  -0.027 kcal/mol  (thermomut - FireProtDB)
+  Std diff:   0.556
+  |diff|<0.5:   517 (86%)
+  |diff|<1.0:   551 (92%)
+  |diff|>2.0:    12 (2%)  ← 要注意
+
+--- New Entries from FireProtDB ---
+  Total: 2488
+  New PDBs: 101
+  Top new PDBs:
+    1EM7, 1PGA:  817  Immunoglobulin G-binding protein G
+    1STN:  315  Thermonuclease
+    1L63, 2LZM:  196  Endolysin
+    2CI2:   72  Subtilisin-chymotrypsin inhibitor-2
+    4LYZ:   56  Lysozyme C
+    1BPI:   42  Pancreatic trypsin inhibitor
+    1FTG, 1FLV:   39  Flavodoxin, Flavodoxin
+    1TTF, 2CK2, 1FNF, 1TTG:   38  Fibronectin
+    1YGW, 1RN1, 9RNT:   37  Guanyl-specific ribonuclease T1
+    1BNI:   37  Ribonuclease
+  Methods: {'Thermal': 818, 'GdnHCl': 1670}
+
+--- Merged Output ---
+  Strategy: annotate
+  Total entries:   10,791
+          thermomut:   7705
+         fireprotdb:   2488
+               both:    598
+  Unique PDBs: 324
+
+  DDG distribution (merged):
+    Mean: -1.154 ± 1.943
+    Stabilizing:    4800 (44%)
+    Neutral:        5304 (49%)
+    Destabilizing:   687 (6%)

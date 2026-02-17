@@ -1,0 +1,1049 @@
+pdb_id,wa,pos,ma,ddg,ph,measure,method,protein,n_measurements,ddg_std,dataset
+1WQ5,P,57,A,0.040,9.0,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,P,62,A,0.520,9.0,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,C,81,A,0.690,9.0,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,P,96,A,2.000,9.0,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,P,132,A,0.920,9.0,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,P,132,G,0.780,9.0,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,C,154,A,1.030,9.0,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,C,154,V,1.120,9.0,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,P,207,A,1.640,9.0,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,G,211,R,-0.100,7.8,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+1WQ5,G,211,E,-0.600,7.8,DSC,Thermal,Tryptophan synthase alpha chain,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",N,35,A,0.710,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",Y,37,F,2.030,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",S,38,A,1.080,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",V,42,A,2.190,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",V,42,S,4.710,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",V,42,T,4.100,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",V,42,C,4.680,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",S,43,A,-0.570,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",Y,50,W,-1.240,6.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",Q,51,K,-0.930,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",N,62,A,0.000,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",H,66,T,0.260,6.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",Y,68,W,0.140,6.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",Y,68,F,-1.150,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",N,70,A,1.730,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,2,0.130,ProTherm
+"1YGW, 1RN1, 9RNT",N,70,D,1.600,7.0,CD,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",N,70,S,1.500,7.0,CD,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",Y,71,W,-0.740,6.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",D,75,H,-1.100,7.0,CD,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",Y,82,F,0.710,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",Y,83,F,0.440,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",E,84,A,0.780,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",W,85,Y,0.930,6.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",S,90,A,1.560,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",Y,94,F,1.350,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",D,102,N,3.100,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",D,102,S,3.100,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",D,102,A,3.800,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",V,104,T,3.100,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",N,107,A,2.910,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",T,117,A,3.200,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",T,117,V,3.600,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",H,118,A,0.620,6.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",T,119,A,0.700,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+"1YGW, 1RN1, 9RNT",T,119,V,1.000,7.0,DSC,Thermal,Guanyl-specific ribonuclease T1,1,0.000,ProTherm
+1ANK,D,84,H,1.400,7.2,DSC,Thermal,Adenylate kinase,1,0.000,ProTherm
+1ANK,G,85,V,2.400,7.2,DSC,Thermal,Adenylate kinase,1,0.000,ProTherm
+1ANK,F,86,L,0.800,7.2,DSC,Thermal,Adenylate kinase,1,0.000,ProTherm
+1ANK,R,88,G,0.200,7.4,DSC,Thermal,Adenylate kinase,1,0.000,ProTherm
+"1L63, 2LZM",I,3,W,2.800,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,Y,2.300,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,F,1.100,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,L,-0.550,5.4,CD,Thermal,Endolysin,2,0.150,ProTherm
+"1L63, 2LZM",I,3,V,0.400,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,M,0.900,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,C,0.000,6.5,CD,Thermal,Endolysin,2,1.200,ProTherm
+"1L63, 2LZM",I,3,A,0.700,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,T,2.300,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,S,1.700,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,G,2.100,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,E,2.000,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,3,D,3.200,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",M,6,A,1.600,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",M,6,I,1.380,6.0,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,7,A,2.300,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",E,11,F,-1.700,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",E,11,M,-1.600,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",E,11,A,-1.100,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",E,11,H,-0.100,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",E,11,N,0.100,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,14,K,0.030,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",K,16,E,-0.500,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,17,A,2.300,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,17,M,2.200,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",D,20,N,-1.300,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",D,20,T,-0.900,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",D,20,S,-0.700,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",D,20,A,0.300,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",E,22,K,-0.570,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,26,S,-0.570,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,27,M,3.100,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",G,30,A,-0.100,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",G,30,F,1.500,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",H,31,N,4.000,5.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,33,A,2.900,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,33,M,2.000,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",S,38,N,0.000,6.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",S,38,D,-0.600,5.4,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",L,39,A,0.900,5.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",N,40,A,-0.260,6.7,CD,Thermal,Endolysin,2,0.060,ProTherm
+"1L63, 2LZM",N,40,D,-0.440,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",A,41,D,-0.290,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",A,41,V,-0.300,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",A,42,K,3.700,5.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",K,43,A,1.065,6.7,CD,Thermal,Endolysin,2,0.035,ProTherm
+"1L63, 2LZM",S,44,A,-0.340,6.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",E,45,A,-0.010,6.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,46,A,1.980,6.7,CD,Thermal,Endolysin,2,0.120,ProTherm
+"1L63, 2LZM",D,47,A,0.950,6.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",K,48,A,0.560,6.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,50,A,1.600,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,50,M,0.400,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",C,54,V,0.700,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",C,54,T,-0.830,6.5,CD,Thermal,Endolysin,2,0.530,ProTherm
+"1L63, 2LZM",N,55,G,0.600,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,58,T,3.400,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,59,N,1.100,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,59,S,0.200,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,59,D,1.200,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,59,G,1.600,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,59,V,1.500,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,59,A,1.500,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",K,60,P,0.000,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",K,60,H,0.100,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,66,A,3.300,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,66,M,1.000,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",Q,69,P,2.900,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",D,72,P,2.700,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",A,74,P,4.600,5.5,CD,Thermal,Endolysin,3,0.216,ProTherm
+"1L63, 2LZM",G,77,A,-0.400,6.5,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",I,78,M,1.500,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,78,V,0.800,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,78,A,1.200,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,80,K,0.170,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",A,82,P,-0.800,5.4,CD,Thermal,Endolysin,3,0.108,ProTherm
+"1L63, 2LZM",K,83,H,0.400,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,84,M,1.900,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,84,A,3.700,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",K,85,A,0.600,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,87,I,0.300,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,87,A,1.500,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,87,M,2.300,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",D,89,A,0.500,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",S,90,H,1.100,5.5,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",L,91,M,0.800,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,91,A,2.600,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",D,92,N,1.400,6.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",A,93,T,-0.060,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",A,93,P,-0.100,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,H,2.820,6.5,CD,Thermal,Endolysin,3,0.137,ProTherm
+"1L63, 2LZM",R,96,K,0.000,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,Q,0.300,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,A,2.000,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,V,2.400,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,S,2.600,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,E,2.500,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,G,2.600,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,M,2.700,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,T,2.800,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,C,2.900,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,I,2.900,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,N,3.000,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,L,3.200,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,D,3.500,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,F,4.200,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,W,4.500,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,Y,4.700,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,96,P,5.500,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,99,A,4.100,5.4,"CD, Fluorescence",Thermal,Endolysin,3,0.216,ProTherm
+"1L63, 2LZM",L,99,M,0.500,5.4,CD,Thermal,Endolysin,2,0.100,ProTherm
+"1L63, 2LZM",L,99,V,2.000,5.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,99,I,1.500,5.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,99,F,0.300,5.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,99,G,6.300,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,100,M,1.600,5.4,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",I,100,V,0.400,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",I,100,A,2.500,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",N,101,A,1.500,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",M,102,L,0.910,5.7,CD,Thermal,Endolysin,2,0.090,ProTherm
+"1L63, 2LZM",M,102,K,6.900,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",M,102,A,2.900,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,103,M,1.200,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,103,I,0.500,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,103,A,1.600,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",F,104,A,2.700,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",F,104,M,0.400,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",Q,105,A,0.600,5.8,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",Q,105,E,1.100,5.8,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",Q,105,G,1.500,5.8,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",Q,105,M,1.200,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",M,106,I,-0.200,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",M,106,A,1.900,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",E,108,V,-0.700,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,109,D,-0.600,6.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,109,N,-0.100,6.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,111,F,1.690,5.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,111,I,0.850,5.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,111,A,1.050,5.4,"CD, Fluorescence",Thermal,Endolysin,2,0.050,ProTherm
+"1L63, 2LZM",V,111,M,0.700,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",G,113,E,-0.300,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",G,113,A,-0.300,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,115,E,-0.150,5.5,CD,Thermal,Endolysin,4,0.179,ProTherm
+"1L63, 2LZM",N,116,D,-0.600,5.4,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",S,117,F,-1.100,5.4,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",S,117,V,-2.000,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",S,117,I,-1.700,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,118,A,3.200,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,118,M,0.700,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,118,I,1.200,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,119,E,0.020,5.3,CD,Thermal,Endolysin,2,0.020,ProTherm
+"1L63, 2LZM",R,119,H,0.290,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,119,M,-0.100,5.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",M,120,Y,0.100,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,121,A,2.250,5.4,CD,Thermal,Endolysin,2,0.050,ProTherm
+"1L63, 2LZM",L,121,M,0.800,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",Q,123,E,-0.250,5.5,CD,Thermal,Endolysin,2,0.150,ProTherm
+"1L63, 2LZM",K,124,G,0.100,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",A,129,L,1.300,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",A,129,M,1.900,5.4,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",V,131,A,-0.390,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",N,132,M,-1.500,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",N,132,F,-1.300,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",N,132,I,-1.200,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,133,M,0.400,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",L,133,D,5.600,4.4,CD,Thermal,Endolysin,2,0.100,ProTherm
+"1L63, 2LZM",L,133,F,0.300,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",K,135,E,1.000,5.3,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",N,144,H,-0.300,6.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",N,144,D,-0.455,5.4,CD,Thermal,Endolysin,2,0.045,ProTherm
+"1L63, 2LZM",N,144,E,-0.500,5.5,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",A,146,T,1.500,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",K,147,E,0.700,5.3,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",V,149,A,3.150,5.4,"CD, Fluorescence",Thermal,Endolysin,2,0.050,ProTherm
+"1L63, 2LZM",V,149,S,4.400,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,149,C,2.000,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,149,T,3.000,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,149,I,0.050,5.3,CD,Thermal,Endolysin,2,0.050,ProTherm
+"1L63, 2LZM",V,149,G,4.900,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",V,149,M,2.800,5.4,"CD, Fluorescence",Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,151,S,-0.390,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,152,A,1.500,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,152,S,2.000,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,152,C,0.500,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,152,V,-0.200,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,152,I,0.400,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",F,153,A,3.400,5.4,CD,Thermal,Endolysin,3,0.189,ProTherm
+"1L63, 2LZM",F,153,L,-0.325,5.4,CD,Thermal,Endolysin,2,0.025,ProTherm
+"1L63, 2LZM",F,153,M,0.600,5.4,CD,Thermal,Endolysin,2,0.000,ProTherm
+"1L63, 2LZM",F,153,V,1.800,5.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",F,153,I,0.200,5.7,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",R,154,E,1.100,5.3,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",G,156,D,2.300,6.5,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",T,157,I,1.650,6.0,CD,Thermal,Endolysin,2,0.450,ProTherm
+"1L63, 2LZM",A,160,T,1.650,6.0,CD,Thermal,Endolysin,1,0.000,ProTherm
+"1L63, 2LZM",N,163,D,0.210,5.4,CD,Thermal,Endolysin,1,0.000,ProTherm
+1LZ1,E,25,Q,1.360,4.0,DSC,Thermal,Lysozyme C,2,0.070,ProTherm
+1LZ1,D,36,N,1.700,4.0,DSC,Thermal,Lysozyme C,1,0.000,ProTherm
+1LZ1,D,67,N,1.000,4.0,DSC,Thermal,Lysozyme C,1,0.000,ProTherm
+1LZ1,D,85,N,1.975,4.0,DSC,Thermal,Lysozyme C,2,0.275,ProTherm
+1LZ1,D,120,N,0.300,4.0,DSC,Thermal,Lysozyme C,2,0.370,ProTherm
+1LZ1,D,138,N,0.310,4.0,DSC,Thermal,Lysozyme C,2,0.360,ProTherm
+4LYZ,F,21,Y,0.450,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,K,31,D,6.690,9.5,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,H,33,L,-0.760,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,N,37,K,1.060,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,R,39,Q,0.150,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,A,49,V,-1.200,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,A,49,I,-1.400,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,A,49,L,-1.800,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,F,52,Y,-0.190,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,T,58,S,0.270,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,T,58,I,2.200,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,G,67,N,0.960,9.5,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,I,73,L,0.450,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,I,73,V,0.910,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,I,73,M,2.270,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,I,73,F,2.460,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,I,73,A,4.400,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,I,73,T,4.960,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,R,86,K,0.040,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,P,88,N,2.150,9.5,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,R,91,K,-0.230,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,N,95,H,0.380,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,S,109,T,-0.990,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,S,109,V,0.080,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,S,109,A,0.150,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,S,109,D,2.310,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,S,109,Y,3.070,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,C,112,A,4.780,9.5,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,D,119,G,-0.450,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,D,119,S,-0.870,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,D,119,A,-0.760,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,D,119,F,-0.720,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,D,119,R,-0.270,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,D,119,K,-0.190,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,D,119,N,-0.040,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,D,119,E,0.000,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,D,119,Q,0.080,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,G,120,V,0.040,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,G,120,R,-0.380,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,N,121,D,-0.240,9.5,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,M,123,T,0.240,9.5,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,R,132,H,-0.680,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+4LYZ,Q,139,H,0.450,6.4,CD,Thermal,Lysozyme C,1,0.000,ProTherm
+1BPI,R,36,A,0.500,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,P,37,A,1.300,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,D,38,A,-0.200,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,F,39,A,3.000,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,L,41,A,0.600,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,E,42,A,1.500,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,P,43,A,0.300,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,P,44,A,0.800,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,Y,45,A,1.200,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,T,46,A,0.000,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,G,47,A,1.800,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,P,48,A,1.200,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,K,50,A,0.400,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,R,52,A,0.300,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,I,53,A,1.500,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,I,54,A,2.100,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,R,55,A,1.800,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,F,57,A,2.000,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,N,59,A,2.200,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,K,61,A,0.000,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,G,63,A,1.000,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,L,64,A,0.000,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,Q,66,A,1.000,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,T,67,A,0.100,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,V,69,A,1.200,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,Y,70,A,1.100,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,G,71,A,2.100,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,G,71,S,0.700,4.6,CD,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,G,72,A,2.300,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,R,74,A,0.000,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,K,76,A,0.400,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,R,77,A,0.500,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,N,79,A,3.300,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,K,81,A,-0.100,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,S,82,A,1.600,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,E,84,A,0.200,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,D,85,A,0.400,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,M,87,A,1.700,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,R,88,A,0.100,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,T,89,A,0.100,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,G,91,A,0.200,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1BPI,G,92,A,0.200,7.0,DSC,Thermal,Pancreatic trypsin inhibitor,1,0.000,ProTherm
+1STN,I,100,M,0.200,5.4,NMR,Thermal,Thermonuclease,1,0.000,ProTherm
+1STN,L,107,A,2.700,7.0,DSC,Thermal,Thermonuclease,2,0.100,ProTherm
+1STN,F,116,C,2.800,7.6,Activity,Thermal,Thermonuclease,1,0.000,ProTherm
+1STN,L,118,C,-0.600,7.6,Activity,Thermal,Thermonuclease,3,1.674,ProTherm
+1STN,H,128,Y,0.000,5.4,NMR,Thermal,Thermonuclease,1,0.000,ProTherm
+1STN,V,148,L,-0.700,7.0,DSC,Thermal,Thermonuclease,2,0.100,ProTherm
+1STN,G,161,S,1.250,7.0,DSC,Thermal,Thermonuclease,2,0.050,ProTherm
+1STN,G,170,V,-0.550,7.0,DSC,Thermal,Thermonuclease,2,0.050,ProTherm
+1STN,L,171,F,1.200,5.4,NMR,Thermal,Thermonuclease,1,0.000,ProTherm
+1STN,A,172,S,2.550,7.0,DSC,Thermal,Thermonuclease,2,0.050,ProTherm
+1STN,H,206,L,-1.300,7.0,DSC,Thermal,Thermonuclease,3,0.490,ProTherm
+1STN,W,222,H,0.400,7.0,CD,Thermal,Thermonuclease,1,0.000,ProTherm
+1STN,W,222,F,0.600,7.0,CD,Thermal,Thermonuclease,1,0.000,ProTherm
+1STN,W,222,Y,1.100,7.0,CD,Thermal,Thermonuclease,1,0.000,ProTherm
+1STN,W,222,L,4.500,7.0,CD,Thermal,Thermonuclease,1,0.000,ProTherm
+1STN,S,223,A,0.120,7.0,CD,Thermal,Thermonuclease,1,0.000,ProTherm
+"2TRX, 2H6X",L,79,K,3.900,7.0,DSC,Thermal,Thioredoxin 1,1,0.000,ProTherm
+"2TRX, 2H6X",L,79,R,4.000,7.0,DSC,Thermal,Thioredoxin 1,1,0.000,ProTherm
+"2AFG, 1JQZ",H,36,Y,-0.570,7.3,CD,Thermal,Fibroblast growth factor 1,2,0.180,ProTherm
+"2AFG, 1JQZ",L,59,P,-0.690,6.6,DSC,Thermal,Fibroblast growth factor 1,1,0.000,ProTherm
+"2AFG, 1JQZ",L,59,F,-0.310,6.6,DSC,Thermal,Fibroblast growth factor 1,3,0.527,ProTherm
+"2AFG, 1JQZ",L,88,V,1.460,6.6,DSC,Thermal,Fibroblast growth factor 1,1,0.000,ProTherm
+"2AFG, 1JQZ",C,98,S,1.910,6.6,DSC,Thermal,Fibroblast growth factor 1,1,0.000,ProTherm
+"2AFG, 1JQZ",F,100,W,-0.070,6.6,DSC,Thermal,Fibroblast growth factor 1,1,0.000,ProTherm
+"2AFG, 1JQZ",H,108,G,-1.075,6.6,DSC,Thermal,Fibroblast growth factor 1,2,0.525,ProTherm
+"2AFG, 1JQZ",H,117,Y,-0.250,7.3,CD,Thermal,Fibroblast growth factor 1,2,0.150,ProTherm
+"2AFG, 1JQZ",F,123,Y,-0.330,7.3,CD,Thermal,Fibroblast growth factor 1,2,0.000,ProTherm
+"2AFG, 1JQZ",V,124,L,0.570,6.6,DSC,Thermal,Fibroblast growth factor 1,1,0.000,ProTherm
+"2AFG, 1JQZ",V,124,I,0.095,7.3,CD,Thermal,Fibroblast growth factor 1,2,0.015,ProTherm
+"2AFG, 1JQZ",C,132,S,0.440,6.6,DSC,Thermal,Fibroblast growth factor 1,2,0.180,ProTherm
+"2AFG, 1JQZ",F,147,W,0.290,6.6,DSC,Thermal,Fibroblast growth factor 1,1,0.000,ProTherm
+1CHK,W,68,F,3.560,7.0,CD,Thermal,Chitosanase,3,1.112,ProTherm
+1CHK,W,141,F,3.910,7.0,CD,Thermal,Chitosanase,3,1.047,ProTherm
+1CHK,W,267,F,2.510,7.0,CD,Thermal,Chitosanase,3,0.700,ProTherm
+"1FTG, 1FLV",L,7,A,1.425,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.315,ProTherm
+"1FTG, 1FLV",V,19,I,-0.315,7.0,"Abs, CD, Fluorescence",Thermal,"Flavodoxin, Flavodoxin",4,0.179,ProTherm
+"1FTG, 1FLV",V,19,L,-0.065,7.0,"Abs, CD, Fluorescence",Thermal,"Flavodoxin, Flavodoxin",2,0.025,ProTherm
+"1FTG, 1FLV",E,21,K,0.710,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",7,0.609,ProTherm
+"1FTG, 1FLV",I,23,A,0.670,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",3,0.418,ProTherm
+"1FTG, 1FLV",I,23,G,-0.170,7.0,"Fluorescence, CD",Thermal,"Flavodoxin, Flavodoxin",1,0.000,ProTherm
+"1FTG, 1FLV",V,32,A,0.725,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.265,ProTherm
+"1FTG, 1FLV",E,41,K,1.120,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",7,0.605,ProTherm
+"1FTG, 1FLV",D,44,A,-0.005,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.035,ProTherm
+"1FTG, 1FLV",L,51,A,-0.020,7.0,"Fluorescence, CD",Thermal,"Flavodoxin, Flavodoxin",1,0.000,ProTherm
+"1FTG, 1FLV",I,52,V,0.725,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.315,ProTherm
+"1FTG, 1FLV",I,53,V,0.390,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.210,ProTherm
+"1FTG, 1FLV",E,62,K,0.240,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",3,0.283,ProTherm
+"1FTG, 1FLV",D,66,K,-0.090,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",3,0.128,ProTherm
+"1FTG, 1FLV",G,69,A,-0.380,7.0,"Fluorescence, CD",Thermal,"Flavodoxin, Flavodoxin",1,0.000,ProTherm
+"1FTG, 1FLV",S,72,A,-0.010,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.120,ProTherm
+"1FTG, 1FLV",E,73,K,1.380,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",7,0.746,ProTherm
+"1FTG, 1FLV",D,76,K,0.730,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",7,0.562,ProTherm
+"1FTG, 1FLV",V,84,I,-0.010,7.0,"Abs, CD, Fluorescence",Thermal,"Flavodoxin, Flavodoxin",4,0.032,ProTherm
+"1FTG, 1FLV",A,85,G,0.860,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.390,ProTherm
+"1FTG, 1FLV",G,88,A,0.090,7.0,"Abs, CD, Fluorescence",Thermal,"Flavodoxin, Flavodoxin",1,0.000,ProTherm
+"1FTG, 1FLV",G,88,V,-0.120,7.0,"Abs, CD, Fluorescence",Thermal,"Flavodoxin, Flavodoxin",1,0.000,ProTherm
+"1FTG, 1FLV",G,88,L,0.210,7.0,"Abs, CD, Fluorescence",Thermal,"Flavodoxin, Flavodoxin",1,0.000,ProTherm
+"1FTG, 1FLV",N,98,A,0.230,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.010,ProTherm
+"1FTG, 1FLV",Q,100,A,-0.490,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",3,0.185,ProTherm
+"1FTG, 1FLV",A,102,V,0.265,7.0,"Abs, CD, Fluorescence",Thermal,"Flavodoxin, Flavodoxin",2,0.425,ProTherm
+"1FTG, 1FLV",A,102,L,0.530,7.0,"Abs, CD, Fluorescence",Thermal,"Flavodoxin, Flavodoxin",1,0.000,ProTherm
+"1FTG, 1FLV",I,105,V,0.245,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.135,ProTherm
+"1FTG, 1FLV",E,108,A,-0.150,7.0,"Fluorescence, CD",Thermal,"Flavodoxin, Flavodoxin",1,0.000,ProTherm
+"1FTG, 1FLV",S,111,A,0.260,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.080,ProTherm
+"1FTG, 1FLV",Q,112,G,-0.220,7.0,"Fluorescence, CD",Thermal,"Flavodoxin, Flavodoxin",1,0.000,ProTherm
+"1FTG, 1FLV",V,118,A,1.135,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.185,ProTherm
+"1FTG, 1FLV",T,123,S,-0.380,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.270,ProTherm
+"1FTG, 1FLV",D,127,K,0.565,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",6,0.322,ProTherm
+"1FTG, 1FLV",V,140,A,0.445,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.155,ProTherm
+"1FTG, 1FLV",L,144,A,0.130,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.020,ProTherm
+"1FTG, 1FLV",D,151,K,-0.215,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",6,0.249,ProTherm
+"1FTG, 1FLV",I,157,V,1.145,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.455,ProTherm
+"1FTG, 1FLV",V,161,A,0.915,7.0,CD,Thermal,"Flavodoxin, Flavodoxin",2,0.185,ProTherm
+2DRI,L,87,C,2.700,7.6,Activity,Thermal,Ribose import binding protein RbsB,1,0.000,ProTherm
+2DRI,A,213,C,1.800,7.6,Activity,Thermal,Ribose import binding protein RbsB,1,0.000,ProTherm
+2RN2,D,10,N,-2.000,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,10,A,-4.000,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,10,E,-1.000,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,10,S,-2.700,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,10,H,-2.400,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,G,23,A,-0.500,5.5,CD,Thermal,Ribonuclease HI,2,0.000,ProTherm
+2RN2,A,24,V,-0.880,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,R,41,C,-0.440,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,E,48,Q,-0.300,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,E,48,A,0.300,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,E,48,D,0.200,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,H,62,P,-1.100,5.5,CD,Thermal,Ribonuclease HI,3,0.000,ProTherm
+2RN2,H,62,R,-0.360,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,H,62,D,0.170,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,70,N,-1.600,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,70,A,-1.100,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,70,E,-0.100,9.0,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,V,74,L,-0.900,5.5,CD,Thermal,Ribonuclease HI,3,0.000,ProTherm
+2RN2,V,74,I,-0.600,5.5,CD,Thermal,Ribonuclease HI,2,0.000,ProTherm
+2RN2,V,74,A,3.400,5.5,CD,Thermal,Ribonuclease HI,2,0.000,ProTherm
+2RN2,K,91,R,0.000,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,94,E,0.400,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,K,95,G,-1.900,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,K,95,A,-0.100,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,K,95,N,-0.890,5.5,CD,Thermal,Ribonuclease HI,2,0.010,ProTherm
+2RN2,Q,113,P,0.600,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,K,117,R,-0.030,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,E,119,V,-0.740,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,A,125,T,0.000,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,134,N,-1.345,5.5,CD,Thermal,Ribonuclease HI,2,0.455,ProTherm
+2RN2,D,134,A,-1.755,5.5,CD,Thermal,Ribonuclease HI,2,0.245,ProTherm
+2RN2,D,134,H,-1.920,5.5,CD,Thermal,Ribonuclease HI,2,0.020,ProTherm
+2RN2,D,134,E,-0.860,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,134,Q,-1.320,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,134,S,-1.080,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,134,T,-1.080,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,134,V,-1.120,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,134,I,-1.270,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,D,134,L,-1.510,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+2RN2,E,135,K,0.220,5.5,CD,Thermal,Ribonuclease HI,1,0.000,ProTherm
+1BNI,D,55,A,0.690,4.4,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,D,59,G,0.990,4.4,DSC,Thermal,Ribonuclease,2,0.210,ProTherm
+1BNI,D,59,A,-1.100,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,Y,60,G,6.400,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,L,61,A,4.200,6.3,Fluorescence,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,Q,62,G,1.600,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,Q,62,A,0.200,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,T,63,R,-0.200,4.4,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,Y,64,G,4.900,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,D,69,M,0.270,4.4,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,T,73,G,2.080,4.4,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,I,98,V,1.860,4.4,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,G,99,A,5.300,6.3,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,G,99,V,8.400,6.3,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,G,100,A,3.400,6.3,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,G,100,V,7.800,6.3,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,D,101,N,2.600,4.4,DSC,Thermal,Ribonuclease,3,0.084,ProTherm
+1BNI,D,101,A,3.300,6.3,Fluorescence,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,I,102,G,3.100,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,R,116,M,2.860,4.4,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,R,119,G,2.500,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,E,120,G,5.400,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,E,120,A,2.500,6.3,Fluorescence,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,D,122,N,5.000,6.3,Fluorescence,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,R,130,Q,1.580,4.4,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,I,135,V,1.285,6.3,Fluorescence,Thermal,Ribonuclease,2,0.185,ProTherm
+1BNI,I,135,A,3.900,6.3,Fluorescence,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,I,135,G,7.400,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,L,136,G,7.000,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,S,138,A,1.270,4.4,DSC,Thermal,Ribonuclease,2,0.110,ProTherm
+1BNI,S,139,A,2.830,4.4,DSC,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,L,142,G,4.700,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,I,143,V,1.170,6.3,Fluorescence,Thermal,Ribonuclease,3,0.130,ProTherm
+1BNI,I,143,A,3.200,6.3,Fluorescence,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,I,143,G,5.700,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,Y,144,G,6.600,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1BNI,T,147,G,2.800,6.3,CD,Thermal,Ribonuclease,1,0.000,ProTherm
+1C9O,Q,2,L,-0.420,7.0,CD,Thermal,Cold shock protein CspB,4,0.130,ProTherm
+1C9O,R,3,E,1.000,7.0,CD,Thermal,Cold shock protein CspB,2,0.000,ProTherm
+1C9O,R,3,L,0.575,7.0,CD,Thermal,Cold shock protein CspB,2,0.355,ProTherm
+1C9O,R,3,K,0.165,7.0,CD,Thermal,Cold shock protein CspB,2,0.025,ProTherm
+1C9O,R,3,A,1.050,7.0,CD,Thermal,Cold shock protein CspB,1,0.000,ProTherm
+1C9O,N,11,S,-0.275,7.0,CD,Thermal,Cold shock protein CspB,4,0.055,ProTherm
+1C9O,E,12,K,0.290,7.0,CD,Thermal,Cold shock protein CspB,3,0.135,ProTherm
+1C9O,Y,15,F,-0.010,7.0,CD,Thermal,Cold shock protein CspB,4,0.060,ProTherm
+1C9O,E,21,A,0.290,7.0,CD,Thermal,Cold shock protein CspB,2,0.000,ProTherm
+1C9O,E,21,K,0.260,7.0,CD,Thermal,Cold shock protein CspB,3,0.252,ProTherm
+1C9O,G,23,Q,0.300,7.0,CD,Thermal,Cold shock protein CspB,4,0.010,ProTherm
+1C9O,S,24,D,-0.205,7.0,CD,Thermal,Cold shock protein CspB,4,0.015,ProTherm
+1C9O,H,29,E,0.480,7.0,DSC,Thermal,Cold shock protein CspB,3,0.193,ProTherm
+1C9O,T,31,S,-0.180,7.0,CD,Thermal,Cold shock protein CspB,4,0.010,ProTherm
+1C9O,E,36,K,0.190,7.0,CD,Thermal,Cold shock protein CspB,3,0.724,ProTherm
+1C9O,E,46,A,0.170,7.0,CD,Thermal,Cold shock protein CspB,4,0.050,ProTherm
+1C9O,E,46,K,0.430,7.0,DSC,Thermal,Cold shock protein CspB,3,0.176,ProTherm
+1C9O,E,50,K,0.500,7.0,CD,Thermal,Cold shock protein CspB,3,0.433,ProTherm
+1C9O,Q,53,E,0.050,7.0,CD,Thermal,Cold shock protein CspB,4,0.050,ProTherm
+1C9O,N,55,K,-0.100,7.0,CD,Thermal,Cold shock protein CspB,3,0.208,ProTherm
+1C9O,R,56,E,-0.530,7.0,CD,Thermal,Cold shock protein CspB,3,0.213,ProTherm
+1C9O,V,64,T,0.225,7.0,CD,Thermal,Cold shock protein CspB,4,0.035,ProTherm
+1C9O,L,66,E,1.270,7.0,CD,Thermal,Cold shock protein CspB,2,0.000,ProTherm
+1C9O,L,66,A,0.070,7.0,CD,Thermal,Cold shock protein CspB,2,0.000,ProTherm
+1CSP,M,1,R,-0.940,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",7,0.431,ProTherm
+1CSP,L,2,R,0.360,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.529,ProTherm
+1CSP,E,3,R,-1.830,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",26,0.580,ProTherm
+1CSP,E,3,L,-0.820,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",4,0.511,ProTherm
+1CSP,E,3,K,-2.385,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",4,0.823,ProTherm
+1CSP,E,3,Q,-1.125,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",6,0.230,ProTherm
+1CSP,E,3,V,-1.100,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",6,0.457,ProTherm
+1CSP,K,5,Q,0.740,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",1,0.000,ProTherm
+1CSP,N,10,D,-0.330,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",6,0.143,ProTherm
+1CSP,E,12,K,0.240,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",2,0.050,ProTherm
+1CSP,K,13,E,0.430,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",2,0.000,ProTherm
+1CSP,K,13,Q,0.170,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.070,ProTherm
+1CSP,F,15,A,0.960,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,1.184,ProTherm
+1CSP,F,17,A,0.810,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.796,ProTherm
+1CSP,E,19,K,0.620,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",1,0.000,ProTherm
+1CSP,E,19,Q,0.310,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.000,ProTherm
+1CSP,E,21,K,0.170,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.029,ProTherm
+1CSP,E,21,Q,0.320,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",2,0.010,ProTherm
+1CSP,D,24,K,0.385,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",2,0.025,ProTherm
+1CSP,D,24,N,0.500,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",2,0.050,ProTherm
+1CSP,D,25,K,1.080,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",1,0.000,ProTherm
+1CSP,D,25,Q,0.410,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",1,0.000,ProTherm
+1CSP,F,27,A,0.785,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",4,0.313,ProTherm
+1CSP,F,38,A,-0.310,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",1,0.000,ProTherm
+1CSP,K,39,E,0.170,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.106,ProTherm
+1CSP,K,39,Q,0.070,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",5,0.051,ProTherm
+1CSP,E,42,Q,0.170,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.021,ProTherm
+1CSP,E,42,K,-0.020,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",5,0.080,ProTherm
+1CSP,E,43,S,-0.190,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",8,0.082,ProTherm
+1CSP,E,43,K,-0.195,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",6,0.083,ProTherm
+1CSP,E,43,Q,-0.050,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",5,0.064,ProTherm
+1CSP,A,46,E,0.290,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",4,0.315,ProTherm
+1CSP,A,46,K,-0.770,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",5,0.338,ProTherm
+1CSP,A,46,L,-0.550,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.229,ProTherm
+1CSP,S,48,R,-0.960,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",5,0.380,ProTherm
+1CSP,S,48,E,-0.020,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.021,ProTherm
+1CSP,S,48,K,-0.690,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",15,0.206,ProTherm
+1CSP,E,50,K,0.240,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",4,0.205,ProTherm
+1CSP,E,50,Q,0.960,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",1,0.000,ProTherm
+1CSP,E,53,Q,-0.180,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",6,0.072,ProTherm
+1CSP,E,53,K,0.140,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.078,ProTherm
+1CSP,N,55,D,-0.465,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",6,0.049,ProTherm
+1CSP,N,55,K,0.000,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",4,0.132,ProTherm
+1CSP,R,56,Q,-0.240,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",5,0.076,ProTherm
+1CSP,T,64,R,-0.600,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.259,ProTherm
+1CSP,K,65,I,-1.540,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",5,0.615,ProTherm
+1CSP,K,65,E,0.930,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",1,0.000,ProTherm
+1CSP,K,65,Q,0.290,7.5,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.135,ProTherm
+1CSP,E,66,L,-1.435,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",8,0.510,ProTherm
+1CSP,E,66,K,-1.250,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",5,0.566,ProTherm
+1CSP,E,66,V,-1.130,7.0,CD,Thermal,"Cold shock protein CspB, 1CSQ",3,0.462,ProTherm
+"1EM7, 1PGA",T,228,P,2.700,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",I,232,N,-1.945,5.2,CD,Thermal,Immunoglobulin G-binding protein G,2,0.125,ProTherm
+"1EM7, 1PGA",I,232,T,-1.880,5.2,CD,Thermal,Immunoglobulin G-binding protein G,2,0.120,ProTherm
+"1EM7, 1PGA",G,235,P,2.400,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",K,236,P,0.200,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",V,247,P,-0.500,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",A,249,P,0.300,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",A,250,P,0.500,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,251,P,2.800,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",V,255,P,3.500,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",D,262,P,3.100,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",D,272,A,1.360,7.0,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",D,273,A,-0.360,7.0,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",A,274,P,0.700,5.5,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,275,A,0.860,7.0,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",K,276,A,0.450,7.0,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,Y,-4.100,5.2,CD,Thermal,Immunoglobulin G-binding protein G,3,1.212,ProTherm
+"1EM7, 1PGA",T,279,F,-4.100,5.2,CD,Thermal,Immunoglobulin G-binding protein G,3,1.558,ProTherm
+"1EM7, 1PGA",T,279,I,-3.300,5.2,CD,Thermal,Immunoglobulin G-binding protein G,3,1.106,ProTherm
+"1EM7, 1PGA",T,279,V,-2.800,5.2,CD,Thermal,Immunoglobulin G-binding protein G,3,1.041,ProTherm
+"1EM7, 1PGA",T,279,W,-1.040,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,S,-0.870,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,M,-0.900,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,C,-0.780,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,L,-0.450,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,R,-0.400,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,N,-0.520,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,H,-0.370,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,Q,-0.380,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,K,-0.350,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,E,-0.230,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,D,0.850,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",T,279,G,1.210,5.2,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1EM7, 1PGA",V,280,A,0.100,7.0,CD,Thermal,Immunoglobulin G-binding protein G,1,0.000,ProTherm
+"1AXB, 1BTL",A,40,S,3.500,7.0,CD,Thermal,Beta-lactamase TEM,1,0.000,ProTherm
+"1AXB, 1BTL",E,102,K,-0.640,7.0,CD,Thermal,Beta-lactamase TEM,3,1.220,ProTherm
+"1AXB, 1BTL",R,162,H,0.600,7.0,Fluorescence,Thermal,Beta-lactamase TEM,7,0.870,ProTherm
+"1AXB, 1BTL",R,162,S,0.610,7.0,Fluorescence,Thermal,Beta-lactamase TEM,1,0.000,ProTherm
+"1AXB, 1BTL",M,180,T,3.500,7.0,CD,Thermal,Beta-lactamase TEM,1,0.000,ProTherm
+"1AXB, 1BTL",S,233,A,-0.580,7.0,Fluorescence,Thermal,Beta-lactamase TEM,1,0.000,ProTherm
+"1AXB, 1BTL",G,234,S,0.770,7.0,CD,Thermal,Beta-lactamase TEM,9,2.277,ProTherm
+1HFZ,H,51,Y,-0.070,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,H,51,A,2.130,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,V,61,N,0.240,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,V,61,A,0.930,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,V,61,G,1.150,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,Q,73,A,0.410,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,I,78,W,0.930,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,Y,122,P,0.220,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,Y,122,A,2.390,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,W,123,Y,2.440,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,A,125,S,1.050,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,H,126,Y,0.190,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,H,126,A,0.790,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,H,126,W,1.720,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,L,129,H,-1.390,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,L,129,R,-0.430,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,L,129,E,0.190,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,K,133,N,-2.650,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,K,133,Q,0.600,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,K,133,E,0.650,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,Q,136,A,0.960,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,W,137,Y,1.170,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFZ,W,137,H,0.600,7.4,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1EL1,H,21,G,0.480,4.5,DSC,Thermal,"Lysozyme C, milk isozyme",1,0.000,ProTherm
+1EL1,I,56,L,0.240,4.5,DSC,Thermal,"Lysozyme C, milk isozyme",1,0.000,ProTherm
+1EL1,A,93,S,0.260,4.5,DSC,Thermal,"Lysozyme C, milk isozyme",1,0.000,ProTherm
+1EL1,V,109,K,0.430,4.5,DSC,Thermal,"Lysozyme C, milk isozyme",1,0.000,ProTherm
+"1WY3, 1QQV, 1YRI",S,793,A,0.800,7.0,CD,Thermal,Villin-1,1,0.000,ProTherm
+"1WY3, 1QQV, 1YRI",F,797,A,2.300,7.0,Fluorescence,Thermal,Villin-1,1,0.000,ProTherm
+"1WY3, 1QQV, 1YRI",V,800,A,0.500,7.0,Fluorescence,Thermal,Villin-1,1,0.000,ProTherm
+"1WY3, 1QQV, 1YRI",F,801,A,1.800,7.0,Fluorescence,Thermal,Villin-1,1,0.000,ProTherm
+"1WY3, 1QQV, 1YRI",T,804,V,1.100,7.0,CD,Thermal,Villin-1,1,0.000,ProTherm
+"1WY3, 1QQV, 1YRI",F,808,A,3.300,7.0,Fluorescence,Thermal,Villin-1,1,0.000,ProTherm
+1ROP,D,30,G,-2.000,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,Q,-1.800,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,E,-1.000,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,S,-1.000,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,K,-0.900,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,H,-0.900,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,C,-0.800,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,R,-0.800,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,N,-0.800,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,M,-0.600,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,A,-0.300,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,Y,-0.200,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,L,0.100,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,F,0.100,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,T,0.400,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,V,0.400,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,W,0.400,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,I,0.800,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,D,30,P,1.600,7.0,CD,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,L,41,V,2.530,6.0,DSC,Thermal,Regulatory protein rop,1,0.000,ProTherm
+1ROP,L,41,A,6.120,6.0,DSC,Thermal,Regulatory protein rop,1,0.000,ProTherm
+3BDN,K,5,Q,-0.430,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,Y,23,H,2.250,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,Q,34,Y,-1.320,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,Q,45,Y,0.020,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,G,47,A,-0.660,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,G,49,S,-0.680,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,G,49,N,-0.790,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,G,49,A,-0.870,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,A,50,V,1.220,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,A,67,T,2.990,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,I,85,S,2.250,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+3BDN,Y,89,C,-2.400,8.0,DSC,Thermal,Repressor protein cI,1,0.000,ProTherm
+2CI2,T,23,A,0.850,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,L,28,A,2.680,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,S,32,A,0.890,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,E,34,N,0.700,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,K,37,A,0.490,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,K,38,A,-0.230,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,K,38,G,0.970,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,V,39,A,0.480,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,I,40,V,1.300,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,K,44,A,0.650,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,I,49,V,1.110,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,I,50,V,-0.080,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,I,50,A,2.120,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,L,52,A,2.370,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,L,52,V,0.500,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,V,54,A,0.630,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,V,54,T,1.030,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,F,70,L,2.110,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,V,71,A,1.950,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+2CI2,I,77,V,-0.190,6.3,Fluorescence,Thermal,Subtilisin-chymotrypsin inhibitor-2A,1,0.000,ProTherm
+1RTB,P,119,A,2.700,4.2,CD,Thermal,Ribonuclease pancreatic,1,0.000,ProTherm
+1RTB,P,119,S,2.100,4.2,CD,Thermal,Ribonuclease pancreatic,1,0.000,ProTherm
+1RTB,P,140,A,3.200,4.2,CD,Thermal,Ribonuclease pancreatic,1,0.000,ProTherm
+1RTB,P,140,G,2.800,4.2,CD,Thermal,Ribonuclease pancreatic,1,0.000,ProTherm
+3SSI,V,44,F,5.510,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.180,ProTherm
+3SSI,V,44,I,0.890,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.050,ProTherm
+3SSI,V,44,L,2.365,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.155,ProTherm
+3SSI,V,44,M,5.675,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.245,ProTherm
+3SSI,M,104,K,-0.200,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.150,ProTherm
+3SSI,M,104,D,-1.425,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.175,ProTherm
+3SSI,M,104,E,-0.805,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.245,ProTherm
+3SSI,M,104,G,0.275,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.215,ProTherm
+3SSI,M,104,A,-0.340,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.210,ProTherm
+3SSI,M,104,V,0.805,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.145,ProTherm
+3SSI,M,104,L,0.400,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.150,ProTherm
+3SSI,M,104,I,1.110,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.170,ProTherm
+3SSI,M,134,A,2.560,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.240,ProTherm
+3SSI,M,134,V,2.030,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.190,ProTherm
+3SSI,M,134,I,2.090,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.200,ProTherm
+3SSI,M,134,L,0.070,7.0,DSC,Thermal,Subtilisin inhibitor,2,0.220,ProTherm
+"1CM2, 1POH",S,46,D,-1.400,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",S,46,N,-0.300,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",S,46,A,1.100,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",K,49,R,0.200,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",K,49,N,-0.400,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",K,49,S,-1.200,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",K,49,D,-1.800,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",K,49,Q,-1.500,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",K,49,E,-2.100,7.0,CD,Thermal,Phosphocarrier protein HPr,2,0.000,ProTherm
+"1CM2, 1POH",K,49,M,-1.000,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",K,49,G,-1.200,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"1CM2, 1POH",K,49,A,-1.600,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+1RGG,V,2,T,0.900,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,S,3,A,0.300,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,T,5,V,0.000,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,L,8,A,1.340,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,S,9,A,1.300,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,L,11,A,3.080,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,T,16,V,-0.300,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,D,17,K,1.100,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,T,18,V,1.400,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,L,19,A,3.650,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,N,20,A,0.000,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,L,21,A,0.410,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,I,22,V,1.480,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,S,24,A,0.200,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,D,25,K,0.900,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,D,25,H,-0.900,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,Y,30,F,-0.400,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,S,31,A,-0.400,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,D,33,A,6.100,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,2,0.100,ProTherm
+1RGG,V,36,T,1.300,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,Q,38,A,-0.700,5.5,DSC,Thermal,Guanyl-specific ribonuclease Sa,2,0.300,ProTherm
+1RGG,N,39,D,1.500,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,N,39,S,2.300,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,N,39,A,2.100,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,2,0.100,ProTherm
+1RGG,E,41,K,1.200,5.5,DSC,Thermal,Guanyl-specific ribonuclease Sa,3,0.330,ProTherm
+1RGG,S,42,A,-0.100,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,V,43,T,0.500,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,S,48,A,-0.500,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,Y,49,F,0.200,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,Y,51,F,2.300,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,Y,52,F,3.600,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,E,54,Q,2.000,5.5,DSC,Thermal,Guanyl-specific ribonuclease Sa,2,0.300,ProTherm
+1RGG,Y,55,F,0.600,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,T,56,V,1.900,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,V,57,T,4.400,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,I,58,V,0.000,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,T,59,V,1.700,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,R,65,A,1.150,5.5,DSC,Thermal,Guanyl-specific ribonuclease Sa,2,0.150,ProTherm
+1RGG,T,67,V,0.000,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,I,70,V,0.940,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,I,71,V,0.130,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,T,72,V,0.200,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,E,74,K,-0.500,5.5,DSC,Thermal,Guanyl-specific ribonuclease Sa,4,0.865,ProTherm
+1RGG,D,79,F,-3.000,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,3,0.330,ProTherm
+1RGG,D,79,Y,-2.900,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,D,79,A,-2.800,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,3,0.262,ProTherm
+1RGG,D,79,I,-2.850,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,2,0.050,ProTherm
+1RGG,D,79,R,-2.700,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,2,0.000,ProTherm
+1RGG,D,79,L,-2.700,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,2,0.000,ProTherm
+1RGG,D,79,K,-2.300,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,2,0.000,ProTherm
+1RGG,D,79,W,-2.300,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,2,0.000,ProTherm
+1RGG,D,79,H,-1.800,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,2,0.000,ProTherm
+1RGG,D,79,N,-1.800,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,3,0.236,ProTherm
+1RGG,D,79,E,0.300,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,2,0.000,ProTherm
+1RGG,Y,80,F,1.500,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,Y,81,F,1.200,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,T,82,V,1.700,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,H,85,Q,0.000,5.5,DSC,Thermal,Guanyl-specific ribonuclease Sa,2,0.000,ProTherm
+1RGG,Y,86,F,0.300,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,S,90,A,-0.200,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,L,91,A,0.840,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,I,92,V,1.000,7.0,Fluorescence,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RGG,Q,94,K,-0.700,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa,2,0.400,ProTherm
+1RGG,T,95,A,0.600,7.0,DSC,Thermal,Guanyl-specific ribonuclease Sa,1,0.000,ProTherm
+1RTP,A,22,P,0.485,7.4,DSC,Thermal,Parvalbumin alpha,2,1.435,ProTherm
+1RTP,H,27,P,-1.250,7.4,DSC,Thermal,Parvalbumin alpha,1,0.000,ProTherm
+1RTP,K,81,S,0.290,7.4,DSC,Thermal,Parvalbumin alpha,1,0.000,ProTherm
+1AM7,H,31,D,1.600,7.0,Fluorescence,Thermal,Endolysin,1,0.000,ProTherm
+1AM7,H,48,N,5.000,7.0,Fluorescence,Thermal,Endolysin,1,0.000,ProTherm
+"1CHH, 1YCC",N,58,I,-3.140,6.0,Absorbance,Thermal,Cytochrome c isoform 1,6,0.772,ProTherm
+"1CHH, 1YCC",N,58,Q,0.080,4.6,DSC,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",N,58,S,0.050,5.0,DSC,Thermal,Cytochrome c isoform 1,3,0.836,ProTherm
+"1CHH, 1YCC",N,58,H,1.270,4.6,DSC,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",N,58,T,-0.590,5.0,DSC,Thermal,Cytochrome c isoform 1,3,0.650,ProTherm
+"1CHH, 1YCC",N,58,A,-0.630,4.6,DSC,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",N,58,V,-2.055,4.6,DSC,Thermal,Cytochrome c isoform 1,2,0.385,ProTherm
+"1CHH, 1YCC",N,58,M,-2.580,4.6,DSC,Thermal,Cytochrome c isoform 1,2,0.330,ProTherm
+"1CHH, 1YCC",N,58,L,-2.560,4.6,DSC,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",K,79,W,1.600,4.5,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",K,79,V,-0.100,4.5,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",K,79,I,0.400,4.5,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",P,82,L,3.440,4.6,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",P,82,G,0.780,4.6,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",P,82,V,1.070,4.6,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",P,82,R,0.970,4.6,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",P,82,S,1.890,4.6,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",P,82,Y,2.070,4.6,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",P,82,W,2.380,4.6,CD,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",F,88,Y,0.700,6.0,DSC,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",L,91,A,2.800,6.0,DSC,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",C,108,T,-3.050,6.0,DSC,Thermal,Cytochrome c isoform 1,4,2.431,ProTherm
+"1CHH, 1YCC",C,108,S,-2.800,6.0,Absorbance,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1CHH, 1YCC",C,108,A,-2.900,6.0,Absorbance,Thermal,Cytochrome c isoform 1,1,0.000,ProTherm
+"1BTA, 1A19",C,83,A,-0.480,7.4,DSC,Thermal,Barstar,1,0.000,ProTherm
+451C,F,29,A,-1.100,5.0,CD,Thermal,Cytochrome c-551,1,0.000,ProTherm
+451C,V,35,M,-0.400,5.0,CD,Thermal,Cytochrome c-551,1,0.000,ProTherm
+451C,F,56,Y,-1.900,5.0,CD,Thermal,Cytochrome c-551,1,0.000,ProTherm
+451C,Q,59,R,-0.500,5.0,CD,Thermal,Cytochrome c-551,1,0.000,ProTherm
+451C,E,65,Y,-0.600,5.0,CD,Thermal,Cytochrome c-551,1,0.000,ProTherm
+451C,V,100,I,-1.000,5.0,CD,Thermal,Cytochrome c-551,1,0.000,ProTherm
+"2HPR, 1KKM",S,46,D,-0.700,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"2HPR, 1KKM",G,49,K,1.000,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"2HPR, 1KKM",G,49,E,-1.400,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+"2HPR, 1KKM",G,49,A,-0.800,7.0,CD,Thermal,Phosphocarrier protein HPr,1,0.000,ProTherm
+1AYF,T,112,S,-0.050,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,T,112,A,1.310,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,H,114,Q,1.660,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,H,114,T,1.190,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,H,114,R,1.160,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,D,134,E,-0.450,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,Y,140,W,0.210,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,Y,140,S,0.330,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,Y,140,L,0.360,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,Y,140,F,0.010,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1AYF,C,153,S,-0.960,8.5,DSC,Thermal,"Adrenodoxin, mitochondrial",1,0.000,ProTherm
+1KFW,G,130,P,-0.500,7.5,Fluorescence,Thermal,chitinase,1,0.000,ProTherm
+1KFW,N,235,K,-0.810,7.5,Fluorescence,Thermal,chitinase,1,0.000,ProTherm
+1KFW,G,291,P,0.650,7.5,Fluorescence,Thermal,chitinase,1,0.000,ProTherm
+1KFW,G,443,Q,-0.620,7.5,Fluorescence,Thermal,chitinase,1,0.000,ProTherm
+1AZP,V,30,I,-0.700,7.0,DSC,Thermal,DNA-binding protein 7d,1,0.000,ProTherm
+"1C8C, 1BNZ",I,30,V,0.400,7.0,DSC,Thermal,DNA-binding protein 7d,1,0.000,ProTherm
+"1SVX, 1OMP, 3MBP, 6N85",P,74,S,-0.300,7.4,DSC,Thermal,Maltose/maltodextrin-binding periplasmic protein,1,0.000,ProTherm
+"1SVX, 1OMP, 3MBP, 6N85",P,74,A,-0.500,7.4,DSC,Thermal,Maltose/maltodextrin-binding periplasmic protein,1,0.000,ProTherm
+"1SVX, 1OMP, 3MBP, 6N85",P,159,S,2.100,7.4,DSC,Thermal,Maltose/maltodextrin-binding periplasmic protein,1,0.000,ProTherm
+"1SVX, 1OMP, 3MBP, 6N85",P,159,A,0.300,7.4,DSC,Thermal,Maltose/maltodextrin-binding periplasmic protein,1,0.000,ProTherm
+"1SVX, 1OMP, 3MBP, 6N85",P,185,S,2.100,7.4,DSC,Thermal,Maltose/maltodextrin-binding periplasmic protein,1,0.000,ProTherm
+"1SVX, 1OMP, 3MBP, 6N85",P,185,A,1.800,7.4,DSC,Thermal,Maltose/maltodextrin-binding periplasmic protein,1,0.000,ProTherm
+1HME,S,121,H,1.675,7.0,CD,Thermal,High mobility group protein B1,2,0.175,ProTherm
+1HME,I,122,H,0.615,7.0,CD,Thermal,High mobility group protein B1,2,0.615,ProTherm
+1HME,G,123,H,-0.065,7.0,CD,Thermal,High mobility group protein B1,2,0.405,ProTherm
+1HME,D,139,H,-0.620,7.0,CD,Thermal,High mobility group protein B1,2,0.350,ProTherm
+1HME,D,140,H,-0.295,7.0,CD,Thermal,High mobility group protein B1,2,0.655,ProTherm
+1B26,R,191,A,0.340,7.0,CD,Thermal,Glutamate dehydrogenase,1,0.000,ProTherm
+1B26,K,194,A,-0.230,7.0,CD,Thermal,Glutamate dehydrogenase,1,0.000,ProTherm
+1B26,E,232,A,0.170,7.0,CD,Thermal,Glutamate dehydrogenase,1,0.000,ProTherm
+1N0J,Y,58,F,-7.900,7.8,DSC,Thermal,"Superoxide dismutase [Mn], mitochondrial",2,4.800,ProTherm
+1N0J,I,82,T,2.700,7.8,DSC,Thermal,"Superoxide dismutase [Mn], mitochondrial",1,0.000,ProTherm
+1N0J,Q,167,N,-1.425,7.8,DSC,Thermal,"Superoxide dismutase [Mn], mitochondrial",2,1.365,ProTherm
+"1W3D, 3DV0, 1W4E",V,129,A,0.700,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",V,129,G,1.000,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",I,130,V,0.200,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",I,130,A,0.700,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",I,130,G,1.400,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",A,131,G,1.700,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",Y,138,F,2.000,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",A,139,G,2.300,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",E,141,Q,0.400,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",E,141,A,0.700,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",D,145,N,0.900,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",D,145,A,2.100,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",V,149,A,2.800,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",V,149,G,4.100,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",V,158,A,3.200,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",L,159,V,0.600,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",L,159,A,2.000,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",L,159,G,1.900,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",D,162,N,2.000,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",I,163,V,0.500,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",D,164,N,1.900,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",D,164,A,2.300,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",D,164,G,3.700,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",L,167,V,0.200,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",L,167,A,1.200,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+"1W3D, 3DV0, 1W4E",A,168,G,0.300,5.5,CD,Thermal,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1,0.000,ProTherm
+1HFY,T,48,I,-1.370,7.0,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFY,T,48,V,-1.860,7.0,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1HFY,T,57,A,1.600,7.0,CD,Thermal,Alpha-lactalbumin,1,0.000,ProTherm
+1ONC,M,23,L,2.410,4.0,DSC,Thermal,Protein P-30,5,0.166,ProTherm
+"1EGL, 1ACB",V,14,A,1.670,7.0,DSC,Thermal,Eglin C,1,0.000,ProTherm
+"1EGL, 1ACB",V,54,A,2.370,7.0,DSC,Thermal,Eglin C,1,0.000,ProTherm
+1IRO,V,24,I,-0.360,9.1,NMR,Thermal,Rubredoxin,2,0.000,ProTherm
+1IRO,I,33,L,-0.760,9.1,NMR,Thermal,Rubredoxin,2,0.000,ProTherm
+1BRF,I,24,V,0.550,9.1,NMR,Thermal,Rubredoxin,1,0.000,ProTherm
+1BRF,L,33,I,0.880,9.1,NMR,Thermal,Rubredoxin,1,0.000,ProTherm
+1CYO,F,40,Y,-0.790,7.0,Absorbance,Thermal,Cytochrome b5,1,0.000,ProTherm
+1CYO,F,40,L,1.870,7.0,Absorbance,Thermal,Cytochrome b5,1,0.000,ProTherm
+1CYO,F,40,H,2.820,7.0,Absorbance,Thermal,Cytochrome b5,1,0.000,ProTherm
+1CYO,V,50,Y,1.540,7.0,Absorbance,Thermal,Cytochrome b5,2,0.010,ProTherm
+1CYO,V,50,H,1.365,7.0,Absorbance,Thermal,Cytochrome b5,2,0.025,ProTherm
+1CYO,V,50,E,2.370,7.0,Absorbance,Thermal,Cytochrome b5,2,0.310,ProTherm
+1CYO,V,66,E,1.100,7.0,Absorbance,Thermal,Cytochrome b5,1,0.000,ProTherm
+1CYO,V,66,Y,1.290,7.0,Absorbance,Thermal,Cytochrome b5,1,0.000,ProTherm
+1CYO,V,66,H,1.630,7.0,Absorbance,Thermal,Cytochrome b5,1,0.000,ProTherm
+1CYO,V,66,K,2.340,7.0,Absorbance,Thermal,Cytochrome b5,1,0.000,ProTherm
+3BCI,E,114,Q,1.060,7.0,CD,Thermal,,1,0.000,ProTherm
+3BCI,T,171,V,-1.140,7.0,CD,Thermal,,2,0.140,ProTherm
+1W4H,A,113,G,-0.040,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,L,114,A,-0.940,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,S,115,G,-0.470,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,P,116,A,0.380,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,A,117,G,-0.370,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,I,118,V,-0.030,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,I,118,A,-1.630,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,L,121,A,-1.670,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,L,122,A,-3.500,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,A,123,G,-1.020,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,L,127,A,-1.900,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,A,129,G,-0.580,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,A,131,G,-0.430,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,I,132,V,-0.750,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,T,135,S,-0.290,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,T,135,A,-1.360,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,V,137,G,-0.840,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,L,141,A,-2.120,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,T,142,S,-1.630,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,D,145,N,-3.100,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,V,146,A,-2.020,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,H,149,A,0.060,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,H,149,G,-1.580,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+1W4H,L,150,A,-0.875,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,2,0.305,ProTherm
+1W4H,A,151,G,-0.070,7.0,CD,Thermal,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1,0.000,ProTherm
+"1ARQ, 1ARR",P,8,L,-2.550,7.5,CD,Thermal,Transcriptional repressor arc,1,0.000,ProTherm
+"1SUP, 1SPB",Q,70,L,1.100,5.0,DSC,Thermal,Subtilisin BPN',1,0.000,ProTherm
+"1SUP, 1SPB",K,87,E,1.000,5.0,DSC,Thermal,Subtilisin BPN',1,0.000,ProTherm
+"1SUP, 1SPB",M,157,F,-0.480,8.0,DSC,Thermal,Subtilisin BPN',1,0.000,ProTherm
+"1SUP, 1SPB",N,183,D,-0.450,8.0,DSC,Thermal,Subtilisin BPN',1,0.000,ProTherm
+"1SUP, 1SPB",G,276,A,-0.300,8.0,DSC,Thermal,Subtilisin BPN',1,0.000,ProTherm
+"1SUP, 1SPB",Q,313,C,-1.250,8.0,DSC,Thermal,Subtilisin BPN',1,0.000,ProTherm
+"1SUP, 1SPB",Y,324,K,-0.720,8.0,DSC,Thermal,Subtilisin BPN',1,0.000,ProTherm
+"1SUP, 1SPB",N,325,S,-1.070,8.0,DSC,Thermal,Subtilisin BPN',1,0.000,ProTherm
+1CLW,G,178,R,2.100,7.4,DSC,Thermal,Tail spike protein,1,0.000,ProTherm
+1CLW,T,236,I,1.600,7.4,DSC,Thermal,Tail spike protein,1,0.000,ProTherm
+1CLW,G,245,R,4.000,7.4,DSC,Thermal,Tail spike protein,1,0.000,ProTherm
+1CLW,R,286,K,10.300,7.4,DSC,Thermal,Tail spike protein,1,0.000,ProTherm
+1CLW,E,310,V,2.300,7.4,DSC,Thermal,Tail spike protein,1,0.000,ProTherm
+1CLW,G,324,D,0.400,7.4,DSC,Thermal,Tail spike protein,1,0.000,ProTherm
+1HUE,A,27,S,1.190,7.0,CD,Thermal,DNA-binding protein HU,1,0.000,ProTherm
+1HUE,S,31,T,-0.410,7.0,CD,Thermal,DNA-binding protein HU,1,0.000,ProTherm
+1HUE,V,42,I,0.820,7.0,CD,Thermal,DNA-binding protein HU,1,0.000,ProTherm
+1HUE,A,56,S,0.130,7.0,CD,Thermal,DNA-binding protein HU,1,0.000,ProTherm
+1HUE,M,69,I,0.000,7.0,CD,Thermal,DNA-binding protein HU,1,0.000,ProTherm
+"1PML, 1TPK",V,280,I,-0.300,4.5,DSC,Thermal,Tissue-type plasminogen activator,1,0.000,ProTherm
+"1PML, 1TPK",V,280,T,1.000,4.5,DSC,Thermal,Tissue-type plasminogen activator,1,0.000,ProTherm
+"1PML, 1TPK",V,280,L,1.900,4.5,DSC,Thermal,Tissue-type plasminogen activator,1,0.000,ProTherm
+"1PML, 1TPK",V,280,A,2.000,4.5,DSC,Thermal,Tissue-type plasminogen activator,1,0.000,ProTherm
+"1PML, 1TPK",V,280,M,2.200,4.5,DSC,Thermal,Tissue-type plasminogen activator,1,0.000,ProTherm
+"1PML, 1TPK",V,280,S,2.400,4.5,DSC,Thermal,Tissue-type plasminogen activator,1,0.000,ProTherm
+"1C5G, 1A7C",R,53,E,1.200,6.6,CD,Thermal,Plasminogen activator inhibitor 1,1,0.000,ProTherm
+"1C5G, 1A7C",E,350,R,0.600,6.6,CD,Thermal,Plasminogen activator inhibitor 1,2,0.300,ProTherm
+"1C5G, 1A7C",E,350,P,-0.300,6.6,CD,Thermal,Plasminogen activator inhibitor 1,1,0.000,ProTherm
+3BLS,Y,166,F,0.700,6.8,CD (far-UV),Thermal,Beta-lactamase,1,0.000,ProTherm
+2AKY,V,10,I,1.200,7.5,Fluorescence,Thermal,Adenylate kinase,1,0.000,ProTherm
+2AKY,T,79,H,2.150,7.5,Fluorescence,Thermal,Adenylate kinase,1,0.000,ProTherm
+2AKY,N,171,D,2.150,7.5,Fluorescence,Thermal,Adenylate kinase,1,0.000,ProTherm
+2AKY,I,215,F,1.910,7.5,Fluorescence,Thermal,Adenylate kinase,1,0.000,ProTherm
+"5CRO, 1ORC",Y,26,C,-2.200,7.0,CD,Thermal,Regulatory protein cro,1,0.000,ProTherm
+"5CRO, 1ORC",Y,26,W,0.100,7.0,CD,Thermal,Regulatory protein cro,1,0.000,ProTherm
+"5CRO, 1ORC",Y,26,F,-0.400,7.0,CD,Thermal,Regulatory protein cro,1,0.000,ProTherm
+"5CRO, 1ORC",Y,26,V,-0.900,7.0,CD,Thermal,Regulatory protein cro,1,0.000,ProTherm
+"5CRO, 1ORC",Y,26,L,-1.100,7.0,CD,Thermal,Regulatory protein cro,1,0.000,ProTherm
+"5CRO, 1ORC",Y,26,Q,-1.400,7.0,CD,Thermal,Regulatory protein cro,1,0.000,ProTherm
+"5CRO, 1ORC",Y,26,H,-1.900,7.0,CD,Thermal,Regulatory protein cro,1,0.000,ProTherm
+"5CRO, 1ORC",Y,26,D,-2.700,7.0,CD,Thermal,Regulatory protein cro,1,0.000,ProTherm
+"1AG2, 1XYX",Y,154,H,-0.240,7.0,CD,Thermal,Major prion protein,3,0.196,ProTherm
+"1AG2, 1XYX",H,186,R,0.740,7.0,CD,Thermal,Major prion protein,3,0.434,ProTherm
+"1AG2, 1XYX",H,186,Y,-0.790,7.0,CD,Thermal,Major prion protein,3,0.144,ProTherm
+"1AG2, 1XYX",E,195,K,0.260,7.0,CD,Thermal,Major prion protein,3,0.101,ProTherm
+"1AG2, 1XYX",F,197,H,1.790,7.0,CD,Thermal,Major prion protein,3,0.473,ProTherm
+1BK7,Y,102,A,6.690,7.5,CD,Thermal,Ribonuclease MC,1,0.000,ProTherm
+1BK7,F,103,A,5.280,7.5,CD,Thermal,Ribonuclease MC,1,0.000,ProTherm
+1BK7,A,106,L,2.920,7.5,CD,Thermal,Ribonuclease MC,1,0.000,ProTherm
+1BK7,D,108,A,0.310,7.5,CD,Thermal,Ribonuclease MC,1,0.000,ProTherm
+1BK7,P,126,A,0.830,7.5,CD,Thermal,Ribonuclease MC,1,0.000,ProTherm
+1BK7,G,128,A,1.040,7.5,CD,Thermal,Ribonuclease MC,1,0.000,ProTherm
+1BK7,V,167,A,2.320,7.5,CD,Thermal,Ribonuclease MC,1,0.000,ProTherm
+1BK7,G,174,A,0.080,7.5,CD,Thermal,Ribonuclease MC,1,0.000,ProTherm
+1BK7,F,191,A,3.230,7.5,CD,Thermal,Ribonuclease MC,1,0.000,ProTherm
+1GWY,A,8,D,1.600,7.4,Isothermal titration calorimetry,Thermal,DELTA-stichotoxin-She4b,1,0.000,ProTherm
+5CG0,L,100,A,-0.810,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,S,247,A,0.050,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,N,249,A,0.940,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,F,251,A,0.670,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,D,260,A,0.670,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,E,261,A,-0.530,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,M,262,F,-0.530,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,A,263,F,0.430,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,E,265,A,-0.430,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,F,334,A,1.110,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,L,335,A,0.840,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,V,336,F,2.140,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,S,337,F,0.750,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,L,350,A,0.700,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,S,358,A,0.630,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,K,366,A,1.250,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,L,389,A,-0.670,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,Y,390,A,0.340,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+5CG0,Y,420,A,1.420,6.0,CD,Thermal,Cytosolic beta-glucosidase,1,0.000,ProTherm
+2W0K,P,7,S,1.500,7.5,Fluorescence,Thermal,,1,0.000,ProTherm
+2W0K,H,8,P,0.800,7.5,Fluorescence,Thermal,,1,0.000,ProTherm
+2W0K,H,8,S,0.200,7.5,Fluorescence,Thermal,,1,0.000,ProTherm
+3K82,D,332,G,1.440,7.5,DSC,Thermal,Disks large homolog 4,1,0.000,ProTherm
+3K82,D,332,P,1.440,7.5,DSC,Thermal,Disks large homolog 4,1,0.000,ProTherm
+3K82,E,334,L,3.350,7.5,DSC,Thermal,Disks large homolog 4,1,0.000,ProTherm
+3K82,E,334,Q,1.680,7.5,DSC,Thermal,Disks large homolog 4,1,0.000,ProTherm
+3K82,E,401,R,-5.490,7.5,DSC,Thermal,Disks large homolog 4,3,1.075,ProTherm
+6EW2,P,39,G,5.380,7.5,CD,Thermal,Myelin P2 protein,1,0.000,ProTherm
+6EW2,I,43,N,7.630,7.5,CD,Thermal,Myelin P2 protein,1,0.000,ProTherm
+6EW2,T,51,P,1.510,7.5,CD,Thermal,Myelin P2 protein,1,0.000,ProTherm
+6EW2,I,52,T,5.170,7.5,CD,Thermal,Myelin P2 protein,1,0.000,ProTherm
+6EW2,F,58,A,1.910,7.5,CD,Thermal,Myelin P2 protein,1,0.000,ProTherm
+2KS4,E,2,A,0.230,7.4,Isothermal titration calorimetry,Thermal,DELTA-stichotoxin-She4a,1,0.000,ProTherm
+2KS4,D,9,A,-1.260,7.4,Isothermal titration calorimetry,Thermal,DELTA-stichotoxin-She4a,1,0.000,ProTherm
+6BQG,M,55,A,-3.500,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,A,58,G,-2.710,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,L,70,A,-4.230,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,M,80,A,-3.610,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,F,83,A,-5.450,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,F,87,A,-2.500,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,L,90,A,-4.030,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,I,94,A,-4.670,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,L,98,A,-3.430,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,V,106,A,-3.850,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,A,109,G,-3.030,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,A,112,G,-2.870,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+6BQG,L,116,A,-1.730,5.0,CD,Thermal,Soluble cytochrome b562,1,0.000,ProTherm
+1MGR,Y,53,F,0.600,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa3,1,0.000,ProTherm
+1MGR,Y,75,F,-0.500,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa3,1,0.000,ProTherm
+1MGR,Y,96,F,2.600,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa3,1,0.000,ProTherm
+1MGR,Y,97,F,2.100,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa3,1,0.000,ProTherm
+1MGR,Y,100,F,0.700,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa3,1,0.000,ProTherm
+1MGR,Y,125,F,1.500,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa3,1,0.000,ProTherm
+1MGR,Y,126,F,1.000,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa3,1,0.000,ProTherm
+1MGR,Y,131,F,0.000,7.0,CD,Thermal,Guanyl-specific ribonuclease Sa3,1,0.000,ProTherm
+1G6N,S,129,A,0.260,7.9,CD,Thermal,DNA-binding transcriptional dual regulator CRP,1,0.000,ProTherm
+1G6N,S,129,P,-0.140,7.9,CD,Thermal,DNA-binding transcriptional dual regulator CRP,1,0.000,ProTherm

@@ -1,0 +1,104 @@
+# ========================================================================
+# SSOC Gate Definition Schema — Complete Specification
+# ========================================================================
+# This schema defines the contract for all gate YAML files.
+# Any gate conforming to this schema can be loaded, swept, evaluated,
+# and deployed by the pipeline without touching code.
+# ========================================================================
+
+_schema_version: "1.0"
+
+# ── Identity ─────────────────────────────────────────────────
+gate_id: string          # unique ID (e.g., "scc_gate3b_aro_gain")
+version: string          # model version (e.g., "3.18")
+type: enum               # SCC | PCC | HYBRID
+status: enum             # candidate | provisional | confirmed | rejected
+physics: string          # one-line physical interpretation
+
+# ── Trigger ──────────────────────────────────────────────────
+trigger:
+  mutation_class: string  # human-readable label
+  wt_set: list[AA]       # wild-type residues (or "any")
+  mt_set: list[AA]       # mutant residues (or "any")
+
+# ── Hard Filters ─────────────────────────────────────────────
+# Sequential AND conditions. All must pass for gate to fire.
+hard_filters:
+  - name: string          # human-readable filter name
+    param: string         # feature key from record (bur, n_cat, p_void, ...)
+    op: enum              # ">=" | ">" | "<=" | "<" | "==" | "!="
+    threshold: float      # comparison value
+
+# ── Soft Parameters ──────────────────────────────────────────
+# cap × demand structure (optional, for SCC-type gates)
+soft_params:
+  cap:
+    source: string        # feature key
+    baseline: float       # B0 offset
+    max: float            # clamp upper bound
+    transform: string     # "linear" | "clamp(x - baseline, 0, max)"
+  demand:
+    source: string        # feature key
+    saturation: float     # S0 for saturating transform
+    transform: string     # "1 - exp(-x / S0)" | "linear" | "sigmoid(x, k, x0)"
+
+# ── Compensation ─────────────────────────────────────────────
+compensation:
+  structure: enum         # flat | cap_x_demand | demand_only | base_plus_boost
+  formula: string         # human-readable formula
+  K: float                # primary scale constant
+  comp_max: float         # safety cap
+  aa_weight: dict         # {W: 1.0, F: 0.7, ...} or null
+  # For base_plus_boost:
+  boost:
+    condition: dict       # {param: threshold} pairs (AND)
+    K: float              # boost scale constant
+
+# ── Direction ────────────────────────────────────────────────
+expected:
+  error_direction: enum   # UNDER | OVER | MIXED
+  correction_sign: enum   # "+" (add to pred) | "-" (subtract from pred)
+  # UNDER + "+" = model too harsh, add positive comp
+  # OVER  + "-" = model too lenient, subtract penalty
+
+# ── Applicability ────────────────────────────────────────────
+applicability:
+  phases: list            # [cavity, strain, charge] or [all]
+  datasets: list          # [gdn_hcl, gdn_urea, all]
+  objectives:
+    primary: enum         # global_r | subset_kpi
+    secondary: enum       # global_r | subset_kpi | none
+
+# ── Features Required ───────────────────────────────────────
+features_required: list   # [bur, p_void, n_cat, ...] — pipeline validates availability
+
+# ── Conflicts ────────────────────────────────────────────────
+conflicts:
+  priority: int           # lower = fires first (0=highest priority)
+  exclusive_with: list    # gate_ids that cannot co-fire on same mutation
+  suppress_if: list       # conditions that suppress this gate
+    # - condition: string   # e.g., "nearest_opp < 4.0"
+    #   reason: string
+  compose_mode: enum      # "additive" | "max" | "priority_only"
+
+# ── Exclusions (Phase Separation) ───────────────────────────
+exclusions:
+  - wt_class: list        # excluded WT classes
+    mt_class: list        # excluded MT classes
+    reason: string        # physics reason for exclusion
+
+# ── Sweep Configuration ─────────────────────────────────────
+sweep:
+  K: list[float]          # [0.5, 1.0, 1.5, 2.0, 3.0, 5.0]
+  hard_filters:           # {param_name: [threshold_values]}
+    burial: list[float]
+  soft_params:            # {param_name: [values]}
+    S0: list[float]
+    cap_max: list[float]
+
+# ── Evaluation Thresholds ───────────────────────────────────
+evaluation:
+  min_N: int              # minimum fired count for valid evaluation
+  min_win_rate: float     # minimum win rate for provisional status
+  min_delta_r: float      # minimum Δr for confirmed status
+  max_new_outlier_pct: float  # maximum acceptable new outlier creation
